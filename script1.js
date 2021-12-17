@@ -66,3 +66,5 @@ function displaydata(){
         var data=document.createElement('div');
         data.innerHTML="Give a proper valid date";
         document.body.append(data);
+    }
+}
